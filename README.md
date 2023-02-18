@@ -6,4 +6,4 @@ The model is trained on a large dataset of human faces and uses convolutional ne
 
 ## Final Output:
 
-
+<img width="915" alt="Screenshot 2023-02-18 at 5 42 31 PM" src="https://user-images.githubusercontent.com/95233156/219865223-1f10725a-ca61-47f3-be0a-b056c2ab17ad.png">
